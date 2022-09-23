@@ -1,0 +1,22 @@
+body {
+    font-family: "Arial, sans-serif";
+}
+
+h1 {
+    font-size: 38px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+.ingredients-list {
+    list-style: "square inside";
+
+}
+
+/* <ul class=".ingredients-list"></ul> */
+
+ol {
+    list-style: decimal;
+}
